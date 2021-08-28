@@ -1,0 +1,15 @@
+{
+    "name": "thetechstuffs/php-mailer-in-php",
+    "description": "Send Mail in PHP Using PHPMailer",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SUMANTA KABIRAJ",
+            "email": "infysumanta@gmail.com"
+        }
+    ]
+}
